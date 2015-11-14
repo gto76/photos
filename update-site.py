@@ -32,7 +32,7 @@ def getReadmeLine(img, username):
   return "[<img src=\"site/images/"+img+"\">](http://"+username+".github.io/photos/site/"+changeExtensionToHtml(img)+")\n\n"
 
 def generatePages(chain, readmeLink, rootAddress):
-  for i in xrange(0, len(chain)-1):
+  for i in xrange(0, len(chain)):
     if i == 0:
       back = readmeLink
     else:
