@@ -42,6 +42,23 @@
         set_body_height();
         $('img[usemap]').rwdImageMaps();
       });
+      function leftArrowPressed() {
+         window.location.href = "http://gto76.github.io/photos/site/anish.html";
+      }
+      function rightArrowPressed() {
+         window.location.href = "http://gto76.github.io/photos/site/group.html";
+      }
+      document.onkeydown = function(evt) {
+        evt = evt || window.event;
+        switch (evt.keyCode) {
+          case 37:
+            leftArrowPressed();
+            break;
+          case 39:
+            rightArrowPressed();
+            break;
+        }
+      };
     </script>
   </body>
 </html>
