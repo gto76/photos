@@ -60,7 +60,10 @@
           case 39:
             rightArrowPressed();
             break;
-          case 27, 38: // esc, upArrow
+          case 27: // esc
+            escapeOrUpArrowPressed();
+            break;
+          case 38: // upArrow
             escapeOrUpArrowPressed();
             break;
         }
