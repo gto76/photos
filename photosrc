@@ -1,0 +1,18 @@
+# Photos configuration file. README.md and links to pages with
+# images will be created according to data specified here.
+
+# Your Github username:
+
+USERNAME=gto76
+
+# Names of images located in 'site/images' in desired
+# order (one per line):
+
+dog.jpg
+anish.jpg
+tower.jpg
+group.jpg
+water.jpg
+hole.jpg
+beach.png
+tank.jpg
