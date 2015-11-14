@@ -41,7 +41,7 @@ def generatePages(chain, readmeLink, rootAddress):
       forward = readmeLink
     else:
       forward = rootAddress + changeExtensionToHtml(chain[i+1])
-    page = ''.join(getPage(back, chain[i], forward))
+    page = ''.join(getPage(back, chain[i], forward, readmeLink))
     filename = "site/" + changeExtensionToHtml(chain[i])
     f = open(filename, "w")
     print(page, file=f)
@@ -49,8 +49,8 @@ def generatePages(chain, readmeLink, rootAddress):
 def changeExtensionToHtml(string):
   return re.sub("png", "html", re.sub("jpg", "html", string))
 
-def getPage(back, img, forward):
-  return [line.replace("BACK", back).replace("IMAGE", "images/"+img).replace("FORWARD", forward) for line in TEMPLATE]
+def getPage(back, img, forward, home):
+  return [line.replace("BACK", back).replace("IMAGE", "images/"+img).replace("FORWARD", forward).replace("HOME", home) for line in TEMPLATE]
 
 if __name__ == '__main__':
   main()

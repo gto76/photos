@@ -48,6 +48,9 @@
       function rightArrowPressed() {
          window.location.href = "http://gto76.github.io/photos/site/water.html";
       }
+      function escapeOrUpArrowPressed() {
+        window.location.href = "https://github.com/gto76/photos";
+      }
       document.onkeydown = function(evt) {
         evt = evt || window.event;
         switch (evt.keyCode) {
@@ -56,6 +59,9 @@
             break;
           case 39:
             rightArrowPressed();
+            break;
+          case 27, 38: // esc, upArrow
+            escapeOrUpArrowPressed();
             break;
         }
       };
