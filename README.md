@@ -6,7 +6,7 @@
 
 [<img src="site/images/tower.jpg">](http://gto76.github.io/photos/site/tower.html)
 
-[<img src="site/images/group3.jpg">](http://gto76.github.io/photos/site/group3.html)
+[<img src="site/images/group3.png">](http://gto76.github.io/photos/site/group3.html)
 
 [<img src="site/images/water.png">](http://gto76.github.io/photos/site/water.html)
 
