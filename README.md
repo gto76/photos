@@ -4,8 +4,6 @@
 
 [<img src="site/images/tower.jpg">](http://gto76.github.io/photos/site/tower.html)
 
-[<img src="site/images/hole.png">](http://gto76.github.io/photos/site/hole.html)
-
 [<img src="site/images/beach6.png">](http://gto76.github.io/photos/site/beach6.html)
 
 [<img src="site/images/group3.png">](http://gto76.github.io/photos/site/group3.html)
