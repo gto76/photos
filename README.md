@@ -8,8 +8,6 @@
 
 [<img src="site/images/group3.png">](http://gto76.github.io/photos/site/group3.html)
 
-[<img src="site/images/water.png">](http://gto76.github.io/photos/site/water.html)
-
 [<img src="site/images/anish3.png">](http://gto76.github.io/photos/site/anish3.html)
 
 
