@@ -12,6 +12,4 @@
 
 [<img src="site/images/pope.jpg">](http://gto76.github.io/photos/site/pope.html)
 
-[<img src="site/images/jezus.jpg">](http://gto76.github.io/photos/site/jezus.html)
-
 
