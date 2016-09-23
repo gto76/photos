@@ -10,4 +10,8 @@
 
 [<img src="site/images/anish3.png">](http://gto76.github.io/photos/site/anish3.html)
 
+[<img src="site/images/pope.jpg">](http://gto76.github.io/photos/site/pope.html)
+
+[<img src="site/images/jezus.jpg">](http://gto76.github.io/photos/site/jezus.html)
+
 
