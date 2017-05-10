@@ -1,4 +1,3 @@
-# photos
 
 [<img src="site/images/dog.jpg">](http://gto76.github.io/photos/site/dog.html)
 
