@@ -1,5 +1,6 @@
 <br>
 <br>
+<br>
 
 [<img src="site/images/dog.jpg">](http://gto76.github.io/photos/site/dog.html)
 
@@ -33,6 +34,7 @@
 
 [<img src="site/images/pope.jpg">](http://gto76.github.io/photos/site/pope.html)
 
+<br>
 <br>
 <br>
 
